@@ -50,9 +50,19 @@ Algunas áreas en las que he trabajado o estoy trabajando:
 
 ---
 
+## 📊 Lenguajes detectados por GitHub
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigarher&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
 ## 📫 Contacto
 
 <div align="center">
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_García_Hernández-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-garc%C3%ADa-hern%C3%A1ndez/)
 
