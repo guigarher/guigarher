@@ -1,24 +1,26 @@
+<div align="center">
+
 # 👋 Hola, soy Guillermo García Hernández
 
-### Desarrollador Web Junior | Desarrollo de Aplicaciones Web
+### Desarrollador Web Junior · Desarrollo de Aplicaciones Web
 
-Soy desarrollador web junior titulado en **Desarrollo de Aplicaciones Web**, con interés en el desarrollo frontend, backend, bases de datos, aplicaciones internas y herramientas web útiles.
+Estoy construyendo mi perfil como desarrollador web junior, con interés en aplicaciones web, herramientas internas, bases de datos, visualización de datos y proyectos útiles.
 
-Actualmente estoy organizando mis proyectos y mejorando la documentación de mis repositorios para mostrar mejor mi evolución, mis prácticas y los proyectos desarrollados durante mi formación.
+Durante mi formación y prácticas he trabajado con tecnologías como JavaScript, React, Python, Java, SQL, Docker, Git, GitHub, Streamlit y Supabase.
+
+Actualmente estoy organizando mis proyectos y mejorando la documentación de mis repositorios para mostrar mejor mi evolución y los trabajos desarrollados durante mi formación.
+
+</div>
 
 ---
 
 ## 🧰 Tecnologías y herramientas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
-![Streamlit](https://img.shields.io/badge/Streamlit-333?style=for-the-badge&logo=streamlit)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,python,java,postgres,supabase,docker,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -33,16 +35,27 @@ Actualmente estoy organizando mis proyectos y mejorando la documentación de mis
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Proyectos y aprendizaje
 
-![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigarher&show_icons=true&theme=tokyonight)
+Actualmente estoy organizando mis repositorios para mostrar mejor mis proyectos principales.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigarher&layout=compact&theme=tokyonight)
+Algunas áreas en las que he trabajado o estoy trabajando:
+
+- Aplicaciones web con React y JavaScript.
+- Proyectos con Python y Streamlit.
+- Bases de datos SQL y PostgreSQL.
+- Prototipos con Supabase.
+- Entornos de desarrollo con Docker.
+- Documentación técnica de proyectos.
 
 ---
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-333?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guillermo-garc%C3%ADa-hern%C3%A1ndez/)
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contacto-333?style=for-the-badge&logo=gmail)](mailto:guigarher@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo_García_Hernández-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-garc%C3%ADa-hern%C3%A1ndez/)
+
+[![Email](https://img.shields.io/badge/Email-guigarher%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guigarher@gmail.com)
+
+</div>
